@@ -1,5 +1,4 @@
 ##Clue
-====
 scaffolding javascript/jQuery functions  (getHTML, getType...)
 
 ##Example
