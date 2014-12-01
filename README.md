@@ -1,7 +1,7 @@
-##Clue
+###Clue
 scaffolding javascript/jQuery functions  (getHTML, getType...)
 
-##Example
+###Example
 var jsonObj = [{ tag: "div", 
                  attr: { class: "class-1", id: "div-1" }, 
                  data: { value: "10" }, 
