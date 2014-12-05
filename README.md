@@ -2,6 +2,7 @@
 scaffolding javascript/jQuery functions  (getHTML, getType...)
 
 ###Example
+####Source JSON Object
 ```javascript
 var jsonObj = [{
     tag: "div",
@@ -18,7 +19,7 @@ var jsonObj = [{
 
 var htmlStr = clue.getHTML(jsonObj);
 ```
-result:
+####Result
 ```html
 <div class='class-1' id='div-1' data-value='10'>
   <div>1</div>
