@@ -13,7 +13,7 @@ var htmlStr = clue.getHTML(jsonObj);
 result:
 ```html
 <div class='class-1' id='href-1' data-value='10'>
-             <div>1</div>
-             <div>2</div>
-        </div>
-        <span class='class-2' href='href-2' data-message='warning'>text</span>
+    <div>1</div>
+    <div>2</div>
+</div>
+<span class='class-2' href='href-2' data-message='warning'>text</span>
