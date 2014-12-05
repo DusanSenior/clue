@@ -10,7 +10,9 @@ var jsonObj = [{ tag: "div",
               ];
  
 var htmlStr = clue.getHTML(jsonObj);
-result: <div class='class-1' id='href-1' data-value='10'>
+result:
+```html
+<div class='class-1' id='href-1' data-value='10'>
              <div>1</div>
              <div>2</div>
         </div>
