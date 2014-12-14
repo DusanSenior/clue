@@ -1,5 +1,5 @@
 ###Clue
-scaffolding javascript/jQuery functions  (getHTML, getType...)
+scaffolding javascript/jQuery functions  (getHTML, getType...), version: 1.0.2
 
 ###Example
 ####Source JSON Object
